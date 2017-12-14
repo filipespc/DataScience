@@ -1,0 +1,38 @@
+ANALYSIS ON GENDER DISTRIBUTION ON SPECIAL SCHOOLS
+
+It has been analyzed the gender distribution in two special kinds of schools:
+    - Juvenile Justice Facility
+    - Magnet Schools (advanced schools for students how achieve high scores)
+    
+In Juvenile Justice Facility schools, the male participation is enormously bigger (427 vs 71).
+In Magnet Schools the gender distribution is roughly the same as the total gender distribution on schools.
+
+
+ANALYSIS ON RACE AND GENDER DISTRIBUTION ON TOTAL ENROLLMENT
+
+It has been found the following proportions for each race and gender regarding school enrollment:
+    - Hispanic: 26,2%
+    - American Indian: 1,4%
+    - Asian: 5,0%
+    - Hawaiian or Pacific Islander: 0,4%
+    - Black: 14,1%
+    - White: 49,8%
+    - Two or more races: 3,0%
+    
+    - Male: 51,4%
+    - Female: 48,6%
+        
+According to the 2010–2015 American Community Survey, the racial composition of the United States in 2015 was:
+    - White: 73.6%
+    - Black: 12.6%
+    - American Indian: 0.8%
+    - Asian: 5.1%
+    - Hawaiian or Pacific Islander: 0.2%
+    - Some other races: 4.7%
+    - Two or more races: 3.0%
+
+The overal numbers don't differ so much in absolute numbers, but in relative numbers there are discrepancies that rises attention:
+    - There is no "Hispanic" race in the American Community Survey, and the white race proportion is far bigger in it than in school enrollment. It seems that in the survey the white and the hispanic were mixed.
+    - There proportionally much more american indians and hawaiian or pacific islanders in school enrollment number than in total population. 
+        - This might suggest that there are people who were classified in "some other races" in the American Community Survey that would be classified as american indians and hawaiian or pacific islanders in the school enrollment survey.  
+        - It is also possible that there is indeed a greater proportional participation of this races in the
